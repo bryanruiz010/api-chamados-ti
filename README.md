@@ -1,6 +1,6 @@
 # API de Chamados de TI
 
-![Diagrama do fluxo da API](../Downloads/fluxo_api_chamados.png)
+![Diagrama do fluxo da API](diagrama-api.svg)
 
 API REST feita em Node.js e Express para registrar e acompanhar chamados de suporte de TI.
 Os dados ficam guardados na memória do programa, ou seja, somem quando o servidor é reiniciado.
